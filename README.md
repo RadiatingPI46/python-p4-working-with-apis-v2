@@ -134,7 +134,7 @@ something wrong with your code, as opposed to something wrong with the API.
 
 Now that we understand what an API is and have even dealt with a URL that takes
 us to a real API endpoint, let's use that same URL to send a request for data
-from a Python program. Fork and clone this repo locally.
+from a Python program. Fork and clone this repo locally. 
 
 Open up `lib/open_library_api.py`. Let's take a look at the code here:
 
